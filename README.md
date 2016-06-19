@@ -1,2 +1,2 @@
 # docker-psysh
-Docker container with Psysh (REPL implementation for PHP)
+Docker image with psysh: read-eval-print loop implementation for PHP
