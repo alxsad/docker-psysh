@@ -11,4 +11,3 @@ VOLUME ["/app"]
 WORKDIR /app
 
 ENTRYPOINT ["/usr/local/bin/psysh"]
-CMD ["--help"]
